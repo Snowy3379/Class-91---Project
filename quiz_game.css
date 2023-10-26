@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://slidechef.net/wp-content/uploads/2021/10/Free-Google-Slides-Math-Background.jpg");
+    background-repeat: initial;
+    text-align: center;
+}
+
+#login1,
+#login2 {
+    background: rgb(206, 223, 253);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#logButton {
+    background: coral;
+}
+
+#heading {
+    text-decoration: solid, underline, ;
+    background-color: rgb(115, 179, 181);
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#num
+{
+    background-color: rgb(115, 179, 181);
+    border-radius: 10px;
+    padding: 10px;
+}
